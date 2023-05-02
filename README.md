@@ -8,3 +8,5 @@
     - form composer 
 - image 
     -intervention/image
+- shoppingcart
+    - gloudemans/shoppingcart
